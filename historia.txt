@@ -2,4 +2,7 @@ Este es la historia de Diana Reyes
 
 Diana Reyes tiene 23 años y nacio en México y quiere viajar
 
+
 Hoy hablaremos de su historia 
+
+Estoy haciendo pruebas con git y github para mejorar la parte desarrollo
